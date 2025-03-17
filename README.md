@@ -1,8 +1,11 @@
 # Praktikum 1 - 3: PHP Framework (CodeIgniter 4) & MySQL
 
- <img src="image/php.png" alt="Android Logo" width="150" height="150">
- <img src="image/ci.png" alt="Android Logo" width="150" height="150">
-  <img src="image/mysql.png" alt="Android Logo" width="150" height="150">
+<p align="center">
+    <img src="image/php.png" alt="PHP Logo" width="150" height="150">
+    <img src="image/ci.png" alt="CodeIgniter Logo" width="150" height="150">
+    <img src="image/mysql.png" alt="MySQL Logo" width="150" height="150">
+</p>
+
 
 Dokumentasi ini berisi rangkuman materi dan latihan dalam **Praktikum 1-3** dari mata kuliah **Pemorograman Web 2**.  
 Setiap praktikum membahas berbagai aspek penggunaan **PHP Framework CodeIgniter 4**, mulai dari dasar hingga konsep lanjutan seperti **CRUD, View Layout, dan View Cell**.
